@@ -2,4 +2,6 @@
 
  <!-- console.log("Console.log("Hllu")); -->
 
- ```jabscript```
+ ```javascript
+ 
+ console.log("Meow meow meow meowww")```
